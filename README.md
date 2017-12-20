@@ -1,2 +1,0 @@
-# entrance
-Entrance Homepage
